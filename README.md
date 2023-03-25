@@ -1,29 +1,25 @@
-# CompanyFrontEnd
+# MVEN-Poc-FrontEnd
 
-This template should help get you started developing with Vue 3 in Vite.
+First of all you should have installed Git.
 
-## Recommended IDE Setup
+## Open the terminal and execute the next command 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+### Making a clone of git-frontend project
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+```sh
+git clone https://github.com/LeodanLVL/mven-poc-frontend.git
+```
 
-## Project Setup
+## Inside the downloaded folder, run in the terminal 
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Run the project
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```

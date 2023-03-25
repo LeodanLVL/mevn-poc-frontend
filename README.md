@@ -8,7 +8,7 @@ First of all you should have installed Git and Node.
 ### Making a clone of git-frontend project
 
 ```sh
-git clone https://github.com/LeodanLVL/mven-poc-frontend.git
+git clone https://github.com/LeodanLVL/mevn-poc-frontend.git
 ```
 
 ## Inside the downloaded folder, run in the terminal 

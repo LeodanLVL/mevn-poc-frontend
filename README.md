@@ -1,6 +1,6 @@
 # MVEN-Poc-FrontEnd
 
-First of all you should have installed Git.
+First of all you should have installed Git and Node.
 
 ## Open the terminal and execute the next command 
 
